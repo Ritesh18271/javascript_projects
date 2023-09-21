@@ -1,0 +1,16 @@
+// Creatitng REST API - JSON
+
+GET/users = list all users from database
+
+
+GET/users/1 = Get the user with id 1
+GET/users/2 = Get the user with id 2
+
+POST/users = create new user in the database (requires username and password)
+
+PATCH/user/1 = Edit the id with user 1
+
+DELETE/user/1 = Delete the id with user 1
+
+
+
